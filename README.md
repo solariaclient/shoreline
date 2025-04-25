@@ -1,6 +1,8 @@
 # shoreline Crack
 ## Crakers
     - femboycomuwu
-    - others
+    - others(Private)
 # How to Use?
     shoreline-beta.jar input the mods folder
+
+Enjoy!
